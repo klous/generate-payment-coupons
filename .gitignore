@@ -9,6 +9,9 @@ __pycache__/
 # Mac files
 .DS_Store
 
+# Python pyenv
+.python-version
+
 # Distribution / packaging
 .Python
 build/
