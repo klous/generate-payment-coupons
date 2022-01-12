@@ -1,0 +1,8 @@
+{
+  "start_payment_date": "2021-01-01",
+  "number_of_payment_coupons": "9",
+  "payment_amount": "$456.12",
+  "lender_company": "My Lender LLC",
+  "late_charge": "$75.00",
+  "property_address": "1234 Main St., City, MI 48067"
+}
